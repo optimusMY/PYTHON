@@ -17,3 +17,6 @@ testapp  contains  basic python 101 examples for ready to use snippets
 
 OPENCV contains examples from https://www.youtube.com/watch?v=u3poUhCxx4k&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K&index=20 playlist
 created by ProgrammingKnowledge
+
+All sentdex named codes are from https://www.youtube.com/watch?v=Lbfe3-v7yE0&list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5 playlist
+
