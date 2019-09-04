@@ -1,0 +1,15 @@
+{
+    "Mode": "Polling",
+    "Baud": 115200,
+    "Stopbit": 1,
+    "DataBits": 8,
+    "Parity": "odd",
+    "Handshake": false,
+    "Buffer": {
+        "TxData": "HelloWorld!",
+        "RxData": [
+            0
+        ]
+    },
+    "enable": true
+}
